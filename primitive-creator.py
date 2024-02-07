@@ -1,4 +1,4 @@
-# Here we will attempt best practics in merging all previous scripts written to unify functionality
+# Here we will attempt best practices in merging all previous scripts written to unify functionality
 # The attempt is to create a tool that will allow us to create any primitive with defined paramters 
 
 import maya.cmds as cmds
